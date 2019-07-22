@@ -1,3 +1,4 @@
+Addition of two numbers:
 Get the input from the user for a and b seperately and store it.
 print the result by adding the variable a and b , using '+' operator symbol.
 To calculate average:
