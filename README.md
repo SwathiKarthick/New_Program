@@ -6,3 +6,4 @@ print a + b
 To find the average:
 
 (a + b) / 2
+print the result
