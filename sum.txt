@@ -1,0 +1,4 @@
+Get the input from the user for a and b seperately and store it.
+print the result by adding the variable a and b , using '+' operator symbol.
+How to calculate average:
+adding two numbers and divide it by two
